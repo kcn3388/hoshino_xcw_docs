@@ -31,7 +31,7 @@
 
 使用 [wiki.biligame.com](https://wiki.biligame.com/pcr/团队战分数查询工具) API获取数据
 
-项目[地址]((https://github.com/zyujs/clanbattle_rank))
+项目[地址](https://github.com/zyujs/clanbattle_rank)
 
 公会战期间本插件将定时推送关注信息, 分别为前6天的5:15和第6天的23:55
 
